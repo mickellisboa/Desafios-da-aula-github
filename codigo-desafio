@@ -1,0 +1,2 @@
+let nomeUsuario = prompt("Bem-vindo ao desafio! Qual o seu nome?");
+alert("Olá, " + nomeUsuario + "! Vamos começar a colaborar.");
